@@ -1491,6 +1491,7 @@ export const definitions: DefinitionWithExtend[] = [
             tuya.whitelabel("Tuya", "ZTH05", "Temperature and humidity sensor", ["_TZE204_upagmta9", "_TZE200_upagmta9", "_TZE284_upagmta9"]),
             tuya.whitelabel("Tuya", "ZTH08-E", "Temperature and humidity sensor", ["_TZE200_cirvgep4", "_TZE204_cirvgep4"]),
             tuya.whitelabel("Tuya", "ZTH08", "Temperature and humidity sensor", ["_TZE204_d7lpruvi", "_TZE284_d7lpruvi", "_TZE284_hdyjyqjm"]),
+            tuya.whitelabel("Tuya", "ZTH01", "Temperature and humidity sensor", ["_TZE204_1wnh8bqp", "_TZE204_1wnh8bqp", "_TZE204_1wnh8bqp"]),
         ],
     },
     {
